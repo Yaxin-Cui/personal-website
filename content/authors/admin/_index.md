@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research interests include network-based model on customer preference
 
 interests:
 - Enginnering Product Design
@@ -51,9 +51,9 @@ social:
   link: https://github.com/Yaxin-Cui
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/Resume_YaxinCui.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/Resume_YaxinCui.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Yaxin Cui is good!
+Yaxin Cui is Zaixi shang's girlfriend.
