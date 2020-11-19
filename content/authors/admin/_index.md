@@ -40,15 +40,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:yaxincui2023@u.northwestern.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Yaxin_Cui2
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=R5lI7WsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/Yaxin-Cui
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Yaxin_Cui2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Yaxin Cui is Zaixi shang's girlfriend.
+I am a Ph.D. candidate in the Department of Mechanical Engineering at Northwestern University. I am working at the [Integrated DEsign Automation Laboratory](https://ideal.mech.northwestern.edu/) and my advisor is [Dr. Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html). My research focuses on network-based statistical methods for consumer preference modeling. 
