@@ -39,9 +39,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "yaxincui2023@u.northwestern.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:yaxincui2023@u.northwestern.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
-  icon_pack: researchgate
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Yaxin_Cui2
 - icon: google-scholar
   icon_pack: ai
